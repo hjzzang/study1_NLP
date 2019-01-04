@@ -7,7 +7,7 @@
 - lemmatizing (원형복원)
 
 
-## tokenizing
+## 1. tokenizing
 ```python
 from nltk.tokenize import sent_tokenize
 text = 'Hi, my name is hyejin. Nice to meet you. This is an example of sentence tokenizing.'
